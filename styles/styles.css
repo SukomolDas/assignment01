@@ -114,6 +114,7 @@ nav a {
     background: linear-gradient(to right,
     rgb(255, 255, 255)
    , rgba(255, 255, 255, 0));
+   margin-bottom: 30px;
 }
 .coding-section img{
     height: 220px;
@@ -121,7 +122,12 @@ nav a {
 }
 .coding-content{
     text-align: left;
-   
+}
+.anathor-coding-content{
+    text-align: right;
+    background: linear-gradient(to left,
+    rgb(255, 255, 255)
+   , rgba(255, 255, 255, 0));
 }
 
 
