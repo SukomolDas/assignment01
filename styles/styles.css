@@ -210,7 +210,30 @@ nav a {
     background: #FFDF000D;
 }
 
+/* next-tergat-section-styles */
+.next-tergat-items-containar {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
 
+.next-tergat-items {
+    display: flex;
+    justify-content: flex-start;
+    padding: 40px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    gap: 20px
+}
+
+.next-tergat-items img {
+    height: ;
+}
+
+.next-tergat-content a {
+    display: block;
+    text-align: left;
+}
 
 /* footer-styles */
 .footer-containar {
