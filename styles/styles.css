@@ -235,6 +235,51 @@ nav a {
     text-align: left;
 }
 
+/* Support-section-Styles */
+.support-section {
+    background: url(../assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 65px 50px;
+    border-radius: 16px;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.support-section h2 {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.support-section p {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 15px 300px 25px 300px;
+
+}
+
+.support-section input[type="text"] {
+    width: 550px;
+    height: 60px;
+    color: rgba(13, 19, 33, 0.4);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    padding: 19px 20px 19px 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+.color-4 {
+    background: #FFFFFF;
+    height: 60px;
+    border: none;
+}
+
+
 /* footer-styles */
 .footer-containar {
     display: flex;
