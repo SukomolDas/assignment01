@@ -156,6 +156,60 @@ nav a {
     text-align: right;
 }
 
+/* inspiration-section-styles */
+.inspiration-section {
+    margin-top: 80px;
+    text-align: center;
+}
+
+.video-content {
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    padding: 32px;
+}
+
+.video-content iframe {
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+}
+
+/* current-target-section-styles */
+.current-target-section {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.card-containar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-items {
+    width: 30%;
+    height: auto;
+    padding: 40px;
+    border-radius: 16px;
+    text-align: left;
+}
+
+.card-items img {
+    width: 56px;
+    height: 56px;
+}
+
+.color-1 {
+    background: #FF4C1E0D;
+}
+
+.color-2 {
+
+    background: #004CE80D;
+}
+
+.color-3 {
+    background: #FFDF000D;
+}
+
 
 
 /* footer-styles */
